@@ -29,7 +29,7 @@ A full-stack AI-powered learning platform that transforms user-uploaded document
 
 Create a `.env` file in the `backend/` directory:
 ```
-SPRING_AI_OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=put_your_openai_api_key_here
 ```
 
 ### Run the Backend
